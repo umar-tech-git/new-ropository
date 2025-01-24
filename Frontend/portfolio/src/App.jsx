@@ -37,6 +37,7 @@ const Portfolio = () => {
         <ul style={styles.projectList}>
           <li><strong>Internship at XYZ Electronics:</strong> Worked on embedded systems development.</li>
           <li><strong>Internship at ABC Tech:</strong> Developed IoT-based solutions for smart homes.</li>
+          <li><strong>Internship at BSNL office</strong>Developed a knowledge internet transmission and signal transmission</li>
         </ul>
       </section>
 
